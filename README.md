@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Athul TS
 
-### 💻 Cybersecurity Student | 🔐 Blue Team Enthusiast | 🧠 Lifelong Learner
+### 💻 Cybersecurity Student | 🔐 Blue Team Enthusiast | 🧠 Avid Learner
 ComTia Security+ | Quickheal forensic investigator
 ---
 
