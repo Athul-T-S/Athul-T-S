@@ -22,7 +22,7 @@ ComTia Security+ | Quickheal forensic investigator
 - 🔍 Interests: Malware Analysis, DFIR, Log Analysis, Threat Hunting  
 
 ---
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Athul-T-S)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Let's Connect!
 
