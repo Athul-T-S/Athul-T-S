@@ -4,7 +4,7 @@
 ComTia Security+ | Quickheal forensic investigator
 ---
 
-"<img src="https://tryhackme-badges.s3.amazonaws.com/Athults.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Athults.png" alt="Your Image Badge" />
 
 " />
 ## 🚀 About Me
