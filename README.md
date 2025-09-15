@@ -4,7 +4,8 @@
 ComTia Security+ | Quickheal forensic investigator
 ---
 
-<img src="<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3395692" style='border:none;'></iframe>
+<img src="<img src="https://tryhackme-badges.s3.amazonaws.com/Athults.png" alt="Your Image Badge" />
+
 " />
 ## 🚀 About Me
 
