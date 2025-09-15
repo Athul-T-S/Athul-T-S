@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Athul TS
 
 ### 💻 Cybersecurity Student | 🔐 Blue Team Enthusiast | 🧠 Avid Learner
-ComTia Security+ | Quickheal forensic investigator
+ComTia Security+ | CompTIA CYSA+ | Quickheal forensic investigator
 ---
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Athults.png" alt="Your Image Badge" />
