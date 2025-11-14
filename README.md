@@ -9,7 +9,7 @@ CompTIA Security+ | CompTIA CySA+ | QuickHeal Forensic Investigator
 ## 🚀 About Me
 
 🎓 I'm a final-year Cybersecurity student, passionate about defending digital landscapes.  
-🔍 Currently diving deep into: **Threat Detection, SOC operations, and Security Automation**.  
+🔍 Currently diving deep into: **Threat Detection, Web pentesting, and Security Automation**.  
 🛠️ I love building tools and scripts that make security smarter and faster.  
 🌱 Always learning something new – from **Linux** to **Machine Learning** in CyberSec!
 
