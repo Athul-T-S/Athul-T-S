@@ -1,39 +1,24 @@
-# 👋 Hey there! I'm Athul TS
+# 💫 About Me:
+An avid learner and tech enthusiast who has been exploring the field of cybersecurity <br>                        CompTIA Security+ | CompTIA CYSA+ | CompTIA Pentest+
 
-### 💻 Cybersecurity Student | 💉RED Team Enthusiast | 🧠 Avid Learner
-CompTIA Security+ | CompTIA CySA+ | QuickHeal Forensic Investigator
----
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Athults.png" alt="Your Image Badge" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/athults/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/17xinch) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Athul-T-S&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Athul-T-S&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Athul-T-S&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🎓 I'm a final-year Cybersecurity student, passionate about defending digital landscapes.  
-🔍 Currently diving deep into: **Threat Detection, Web pentesting, and Security Automation**.  
-🛠️ I love building tools and scripts that make security smarter and faster.  
-🌱 Always learning something new – from **Linux** to **Machine Learning** in CyberSec!
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🧰 Tech Stack
-
-- 🔒 Cybersecurity: Wireshark, Nmap, Splunk, OSINT, SIEM tools  
-- 💻 Languages: Bash, Python, JavaScript  
-- ⚙️ Tools: Linux, Git, splunk, Burp Suite  
-- 📦 Dev Stuff: Docker, GitHub Actions, SQLite  
-- 🔍 Interests: Malware Analysis, DFIR, Log Analysis, Threat Hunting  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Athul-T-S&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Athul-T-S&show_icons=true&theme=radical)
+[![](https://visitcount.itsvg.in/api?id=Athul-T-S&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📫 Let's Connect!
-
-- 🌐 [Portfolio](https://athults777.wixsite.com/portfolio)
-- 💼 [LinkedIn](https://www.linkedin.com/in/athults/) 
-- 📬 [Email](athults777@gmail.com) 
-
----
-
-> “Security is not a product, but a process.” – Bruce Schneier  
-🛡️ Stay secure. Keep learning. Hack the right way.
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
