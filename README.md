@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=41F79A&background=2E7DFF00&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Athul+TS)](https://git.io/typing-svg)
 # About Me:
 An avid learner and tech enthusiast who has been exploring the field of cybersecurity <br>                        CompTIA Security+ | CompTIA CYSA+ | CompTIA Pentest+
 
